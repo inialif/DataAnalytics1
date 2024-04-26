@@ -208,7 +208,7 @@ Data Cleansing is the process of identifying and correcting errors or inconsiste
 In this section use all what we have learned in this week. We will clean the dataset and we use the dataset from [Kaggle](https://www.kaggle.com/datasets/rkkaggle2/rms-lusitania-complete-passenger-manifest/data). This dataset contains information about the passengers on the RMS Lusitania, a British ocean liner that was sunk by a German U-boat during World War I
 
 For more details:
-[Open File](https://github.com/sisatput/DataAnalytics1/blob/main/Data%20Cleansing%20Dataset%20Lusitania.ipynb)
+[Open File](https://github.com/inialif/DataAnalytics1/blob/main/Data%20Cleansing%20-%20Lusitania.ipynb)
 
 ## End Notes
 
